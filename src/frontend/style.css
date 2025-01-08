@@ -1,0 +1,35 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+
+#audioPlayer {
+    width: 100%;
+}
+
+
+.timer {
+    font-size: 35px;
+    text-align: center;
+}
+
+#songName {
+    margin-top: 1em;
+    font-size: 30px;
+    text-align: center;
+}
