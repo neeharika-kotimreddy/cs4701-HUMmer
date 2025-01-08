@@ -23,9 +23,7 @@ To run HUMmer, ensure the following prerequisites are installed:
 ### Installing
 
 1. Clone the repository.
-2. Navigate to the project directory:
-    ```bash
-    cd HUMmer
+2. Navigate to the project directory.
 3. Install the required Python libraries.
 4. Ensure `ffmpeg` is installed for audio file processing.
    
