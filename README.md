@@ -1,4 +1,4 @@
-# HUMmer: Song Identification through Humming
+# HUMmer: Song Identification Through Humming
 
 HUMmer is a web-based application designed to identify songs from short humming snippets. By leveraging machine learning and sound recognition, the project helps users who struggle to recall song titles. It provides a user-friendly interface where users can record humming snippets, which are then processed and matched to a song in the database. This is my final project for CS 4701: Practicum in AI, which I took at Cornell in the fall 2023 semester. 
 
